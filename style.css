@@ -1,0 +1,19 @@
+button {
+    font-size: 28px;
+    font-family:Tahoma, Verdana, sans-serif ;
+}
+
+.halwa {
+    color:green;
+    background-color: orange;
+}
+.dosa {
+    color:white;
+    background-color: rgb(124, 44, 124);
+}
+
+.upma
+{
+    color:tan;
+    background-color: green;
+}
